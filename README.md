@@ -1,35 +1,30 @@
-<h2 align="left">Hi 👋! My name is Matthew Nicholas Adriell and I'm a student, from Binus Bandung omputer Science</h2>
+<h2 align="left">Hi 👋! My name is Matthew Nicholas Adriell and I'm a student from Binus Bandung Computer Science</h2>
 
-###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Profile animation" />
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+### Technologies I use
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
 </div>
 
-###
+---
 
-<br clear="both">
+### Snake Animation
 
-<img src="https://raw.githubusercontent.com/matthewspectre/matthewspectre/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/matthewspectre/matthewspectre/output/snake.svg)
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthewspectre/matthewspectre/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matthewspectre/matthewspectre/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matthewspectre/matthewspectre/output/pacman-contribution-graph.svg">
-</picture>
+### Pacman Contribution Graph
 
-###
+![Pacman Contribution Graph (dark)](https://raw.githubusercontent.com/matthewspectre/matthewspectre/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+![Pacman Contribution Graph (light)](https://raw.githubusercontent.com/matthewspectre/matthewspectre/output/pacman-contribution-graph.svg#gh-light-mode-only)
